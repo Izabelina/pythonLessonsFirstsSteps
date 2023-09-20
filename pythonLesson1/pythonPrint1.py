@@ -17,6 +17,8 @@ print(1, 2, 3, sep='-')
 print("France", "USA", "PL", sep='\n')
 print("France", "USA", "PL", sep='\t')
 
-
+print("This is bell: \a")
+print("\u03A3")
+print("This is backslash: \\")
 
 
